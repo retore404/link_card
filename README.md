@@ -8,5 +8,8 @@ Generating html code of the link card
 1. jsのコードをブックマークに追加
 2. cssを埋め込み
 
+# 見本
+https://blog.retore.xyz/2017/08/entry-177.html
+
 # 注意
 画像についてはキャッシュを生成するでもなく直リンクなので，他所様のサイトのカードは作らないほうが良い．あくまで自サイト内リンク用に使えれば．
