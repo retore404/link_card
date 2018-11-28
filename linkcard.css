@@ -1,0 +1,20 @@
+.Rblogcard2 {
+border: 1px solid gray;
+display:inline-block;
+max-width: 400px;
+padding: 5px;
+margin-bottom: 10px;
+}
+.Rblogcard_title2{
+font-weight: bold;
+}
+.Rblogcard_des2{
+font-size:70%;
+}
+.Rblogcard_img2{
+max-width:400px;
+min-width:200px;
+}
+.Rblogcard_url2 {
+font-size:90%;
+}
